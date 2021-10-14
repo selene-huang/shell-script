@@ -1,7 +1,3 @@
-/* Program 4
-   Bionicly Omnipotent Resistance Grinders Output Generator
-   Selene Huang*/
-
 #include <iostream>
 #include <string>
 #include <math.h>
